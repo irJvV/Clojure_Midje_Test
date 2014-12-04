@@ -1,0 +1,2 @@
+2014-dec-04 12:04:09 +0100 geenjoost-Vostro-400 INFO [joost-midje-testing.core] - This will print
+2014-dec-04 12:04:09 +0100 geenjoost-Vostro-400 INFO [joost-midje-testing.core] - (* 5 4 3 2 1) 120
